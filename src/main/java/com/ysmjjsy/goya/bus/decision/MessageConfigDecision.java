@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.decision;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.core.MessageConfigHint;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.core.MessageConfigHint;
 
 /**
  * <p>消息配置智能决策引擎</p>

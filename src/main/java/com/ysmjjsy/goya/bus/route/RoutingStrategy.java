@@ -1,8 +1,8 @@
 package com.ysmjjsy.goya.bus.route;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.enums.EventModel;
-import com.ysmjjsy.goya.security.bus.spi.SubscriptionConfig;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.enums.EventModel;
+import com.ysmjjsy.goya.bus.spi.SubscriptionConfig;
 
 /**
  * 路由策略接口

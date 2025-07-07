@@ -1,8 +1,8 @@
 package com.ysmjjsy.goya.bus.route;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.enums.EventModel;
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.enums.EventModel;
+import com.ysmjjsy.goya.bus.enums.TransportType;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;

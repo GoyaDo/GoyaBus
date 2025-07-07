@@ -1,9 +1,9 @@
 package com.ysmjjsy.goya.bus.core;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.api.IEventListener;
-import com.ysmjjsy.goya.security.bus.decision.DecisionResult;
-import com.ysmjjsy.goya.security.bus.enums.ConsumeResult;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.api.IEventListener;
+import com.ysmjjsy.goya.bus.decision.DecisionResult;
+import com.ysmjjsy.goya.bus.enums.ConsumeResult;
 import lombok.Builder;
 import lombok.extern.slf4j.Slf4j;
 

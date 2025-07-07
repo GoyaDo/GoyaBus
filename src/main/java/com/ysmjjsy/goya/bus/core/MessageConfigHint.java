@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.core;
 
-import com.ysmjjsy.goya.security.bus.enums.*;
+import com.ysmjjsy.goya.bus.enums.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

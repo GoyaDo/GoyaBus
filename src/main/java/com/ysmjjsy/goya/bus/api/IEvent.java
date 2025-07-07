@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.api;
 
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
-import com.ysmjjsy.goya.security.bus.enums.EventStatus;
+import com.ysmjjsy.goya.bus.enums.EventStatus;
 
 import java.time.LocalDateTime;
 

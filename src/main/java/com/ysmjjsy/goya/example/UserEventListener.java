@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.example;
 
-import com.ysmjjsy.goya.security.bus.annotation.IListener;
-import com.ysmjjsy.goya.security.bus.enums.ConsumeResult;
+import com.ysmjjsy.goya.bus.annotation.IListener;
+import com.ysmjjsy.goya.bus.enums.ConsumeResult;
 import lombok.extern.slf4j.Slf4j;
 
 /**

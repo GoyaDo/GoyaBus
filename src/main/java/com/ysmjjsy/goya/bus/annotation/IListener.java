@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.annotation;
 
-import com.ysmjjsy.goya.security.bus.enums.EventModel;
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.enums.EventModel;
+import com.ysmjjsy.goya.bus.enums.TransportType;
 
 import java.lang.annotation.*;
 

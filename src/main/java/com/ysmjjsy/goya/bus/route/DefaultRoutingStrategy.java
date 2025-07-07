@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.route;
 
-import com.ysmjjsy.goya.security.bus.configuration.properties.BusProperties;
+import com.ysmjjsy.goya.bus.configuration.properties.BusProperties;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.ApplicationContext;
 

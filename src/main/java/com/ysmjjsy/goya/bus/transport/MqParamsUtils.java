@@ -1,8 +1,8 @@
 package com.ysmjjsy.goya.bus.transport;
 
-import com.ysmjjsy.goya.security.bus.annotation.RabbitConfig;
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
-import com.ysmjjsy.goya.security.bus.transport.rabbitmq.RabbitMQConstants;
+import com.ysmjjsy.goya.bus.annotation.RabbitConfig;
+import com.ysmjjsy.goya.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.transport.rabbitmq.RabbitMQConstants;
 import lombok.experimental.UtilityClass;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.amqp.core.QueueBuilder;

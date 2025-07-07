@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.example;
 
-import com.ysmjjsy.goya.security.bus.api.IEventBus;
-import com.ysmjjsy.goya.security.bus.api.PublishResult;
+import com.ysmjjsy.goya.bus.api.IEventBus;
+import com.ysmjjsy.goya.bus.api.PublishResult;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

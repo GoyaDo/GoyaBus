@@ -1,10 +1,10 @@
 package com.ysmjjsy.goya.bus.route;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.configuration.properties.BusProperties;
-import com.ysmjjsy.goya.security.bus.enums.EventModel;
-import com.ysmjjsy.goya.security.bus.resolver.PropertyResolver;
-import com.ysmjjsy.goya.security.bus.spi.SubscriptionConfig;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.configuration.properties.BusProperties;
+import com.ysmjjsy.goya.bus.enums.EventModel;
+import com.ysmjjsy.goya.bus.resolver.PropertyResolver;
+import com.ysmjjsy.goya.bus.spi.SubscriptionConfig;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.ApplicationContext;

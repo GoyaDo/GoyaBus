@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.context;
 
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
-import com.ysmjjsy.goya.security.bus.transport.MessageTransport;
+import com.ysmjjsy.goya.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.transport.MessageTransport;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

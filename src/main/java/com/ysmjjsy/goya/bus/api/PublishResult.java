@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.api;
 
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.enums.TransportType;
 import lombok.Builder;
 import lombok.Data;
 

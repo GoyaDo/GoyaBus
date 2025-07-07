@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.api;
 
-import com.ysmjjsy.goya.security.bus.core.MessageConfigHint;
+import com.ysmjjsy.goya.bus.core.MessageConfigHint;
 
 import java.time.Duration;
 import java.time.LocalDateTime;

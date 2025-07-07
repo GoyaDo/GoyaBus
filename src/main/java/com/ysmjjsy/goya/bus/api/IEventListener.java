@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.api;
 
-import com.ysmjjsy.goya.security.bus.enums.ConsumeResult;
+import com.ysmjjsy.goya.bus.enums.ConsumeResult;
 
 /**
  * 统一事件监听器接口

@@ -1,12 +1,12 @@
 package com.ysmjjsy.goya.bus.transport;
 
 
-import com.ysmjjsy.goya.security.bus.enums.EventCapability;
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
-import com.ysmjjsy.goya.security.bus.spi.MessageConsumer;
-import com.ysmjjsy.goya.security.bus.spi.SubscriptionConfig;
-import com.ysmjjsy.goya.security.bus.spi.TransportEvent;
-import com.ysmjjsy.goya.security.bus.spi.TransportResult;
+import com.ysmjjsy.goya.bus.enums.EventCapability;
+import com.ysmjjsy.goya.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.spi.MessageConsumer;
+import com.ysmjjsy.goya.bus.spi.SubscriptionConfig;
+import com.ysmjjsy.goya.bus.spi.TransportEvent;
+import com.ysmjjsy.goya.bus.spi.TransportResult;
 
 import java.util.Set;
 

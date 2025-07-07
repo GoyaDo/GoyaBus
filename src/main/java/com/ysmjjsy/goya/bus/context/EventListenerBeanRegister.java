@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.context;
 
-import com.ysmjjsy.goya.security.bus.annotation.IListener;
+import com.ysmjjsy.goya.bus.annotation.IListener;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.config.BeanDefinition;

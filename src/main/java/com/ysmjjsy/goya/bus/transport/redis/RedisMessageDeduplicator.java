@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.transport.redis;
 
-import com.ysmjjsy.goya.security.bus.duplicate.MessageDeduplicator;
+import com.ysmjjsy.goya.bus.duplicate.MessageDeduplicator;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.script.DefaultRedisScript;

@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya;
 
-import com.ysmjjsy.goya.security.bus.context.EventListenerBeanRegister;
+import com.ysmjjsy.goya.bus.context.EventListenerBeanRegister;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;

@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.spi;
 
-import com.ysmjjsy.goya.security.bus.enums.*;
-import com.ysmjjsy.goya.security.bus.route.RoutingContext;
+import com.ysmjjsy.goya.bus.enums.*;
+import com.ysmjjsy.goya.bus.route.RoutingContext;
 import lombok.Builder;
 import lombok.Data;
 

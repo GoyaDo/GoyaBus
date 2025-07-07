@@ -1,8 +1,8 @@
 package com.ysmjjsy.goya.bus.spi;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.api.IEventListener;
-import com.ysmjjsy.goya.security.bus.enums.ConsumeResult;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.api.IEventListener;
+import com.ysmjjsy.goya.bus.enums.ConsumeResult;
 
 /**
  * 消息消费者接口

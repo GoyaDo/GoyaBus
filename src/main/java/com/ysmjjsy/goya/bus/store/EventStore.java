@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.store;
 
-import com.ysmjjsy.goya.security.bus.enums.EventStatus;
-import com.ysmjjsy.goya.security.bus.spi.EventRecord;
+import com.ysmjjsy.goya.bus.enums.EventStatus;
+import com.ysmjjsy.goya.bus.spi.EventRecord;
 
 import java.util.List;
 

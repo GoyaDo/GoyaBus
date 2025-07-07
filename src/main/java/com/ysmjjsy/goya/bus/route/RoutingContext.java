@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.bus.route;
 
-import com.ysmjjsy.goya.security.bus.enums.EventModel;
+import com.ysmjjsy.goya.bus.enums.EventModel;
 import lombok.Builder;
 import lombok.Data;
 

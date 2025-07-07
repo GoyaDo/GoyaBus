@@ -2,8 +2,8 @@ package com.ysmjjsy.goya.bus.domain;
 
 import cn.hutool.core.util.IdUtil;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.enums.EventStatus;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.enums.EventStatus;
 import lombok.Data;
 
 import java.time.LocalDateTime;

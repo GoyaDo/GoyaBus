@@ -1,6 +1,6 @@
 package com.ysmjjsy.goya.example;
 
-import com.ysmjjsy.goya.security.bus.domain.AbstractBaseEvent;
+import com.ysmjjsy.goya.bus.domain.AbstractBaseEvent;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

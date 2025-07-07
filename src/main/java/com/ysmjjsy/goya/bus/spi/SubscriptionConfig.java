@@ -1,9 +1,9 @@
 package com.ysmjjsy.goya.bus.spi;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.enums.EventModel;
-import com.ysmjjsy.goya.security.bus.enums.TransportType;
-import com.ysmjjsy.goya.security.bus.route.RoutingContext;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.enums.EventModel;
+import com.ysmjjsy.goya.bus.enums.TransportType;
+import com.ysmjjsy.goya.bus.route.RoutingContext;
 import lombok.Builder;
 import lombok.Data;
 import lombok.experimental.SuperBuilder;

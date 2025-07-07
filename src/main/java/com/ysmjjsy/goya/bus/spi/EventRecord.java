@@ -1,7 +1,7 @@
 package com.ysmjjsy.goya.bus.spi;
 
-import com.ysmjjsy.goya.security.bus.api.IEvent;
-import com.ysmjjsy.goya.security.bus.decision.DecisionResult;
+import com.ysmjjsy.goya.bus.api.IEvent;
+import com.ysmjjsy.goya.bus.decision.DecisionResult;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
